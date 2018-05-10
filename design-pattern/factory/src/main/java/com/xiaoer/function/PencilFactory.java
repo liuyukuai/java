@@ -1,4 +1,4 @@
-package com.xiaoer.abs;
+package com.xiaoer.function;
 
 import com.xiaoer.Pen;
 import com.xiaoer.Pencil;
