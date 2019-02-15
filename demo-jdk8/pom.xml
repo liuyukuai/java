@@ -12,6 +12,7 @@
     <modules>
         <module>demo-predicate</module>
         <module>demo-function</module>
+        <module>demo-stack</module>
     </modules>
     <build>
         <plugins>
